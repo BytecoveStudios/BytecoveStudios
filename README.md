@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Welcome to Bytecove Studios
 
-<!--
-**BytecoveStudios/BytecoveStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Crafting unique Minecraft experiences through clean, powerful code.
 
-Here are some ideas to get you started:
+At Bytecove Studios, we're focused on developing high performance Minecraft plugins and tools that enhance gameplay, inspire creativity, and push the boundaries of what's possible in game.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧱 What We Do
+- 🛠️ Custom Minecraft Plugin Development (Spigot, Paper, etc.)
+- 🌐 Scalable server side systems
+- ⚙️ Utility tools & gameplay mechanics
+- 🚀 Performance optimized code
+- 📦 Opensource contributions
+
+## 🤝 Work With Us
+We’re open to collaboration, commissions, and community ideas.  
+Have a project in mind? Let’s talk!
+
+---
+
+> “We turn ideas into immersive Minecraft experiences.”
+
